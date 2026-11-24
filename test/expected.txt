@@ -1,0 +1,11 @@
+approved	PR #42 open · ✓ approved · CI ✓ 4
+closed	PR #42 closed
+draft-conflict	PR #42 draft · review required · ⚠ conflicts · CI ✓ 4
+failing	PR #42 open · changes requested · CI ✗ 3 failing (build, ci/legacy-status-check-…, unit-tests)
+merged	PR #42 merged
+no-checks	PR #42 open
+open-green	PR #42 open · CI ✓ 4
+pending	PR #42 open · CI ● 2 running 3/5
+run-failed	no PR · CI ✗
+run-none	
+run-running	no PR · CI ●

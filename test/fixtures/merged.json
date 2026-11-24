@@ -1,0 +1,44 @@
+{
+  "number": 42,
+  "state": "MERGED",
+  "isDraft": false,
+  "reviewDecision": "",
+  "mergeable": "MERGEABLE",
+  "statusCheckRollup": [
+    {
+      "__typename": "CheckRun",
+      "name": "build",
+      "status": "COMPLETED",
+      "conclusion": "SUCCESS"
+    },
+    {
+      "__typename": "CheckRun",
+      "name": "unit-tests",
+      "status": "COMPLETED",
+      "conclusion": "SUCCESS"
+    },
+    {
+      "__typename": "CheckRun",
+      "name": "lint",
+      "status": "COMPLETED",
+      "conclusion": "SUCCESS"
+    },
+    {
+      "__typename": "CheckRun",
+      "name": "deploy-preview",
+      "status": "COMPLETED",
+      "conclusion": "SKIPPED"
+    },
+    {
+      "__typename": "CheckRun",
+      "name": "e2e",
+      "status": "COMPLETED",
+      "conclusion": "NEUTRAL"
+    },
+    {
+      "__typename": "StatusContext",
+      "context": "ci/legacy-status-check-with-a-long-name",
+      "state": "SUCCESS"
+    }
+  ]
+}
