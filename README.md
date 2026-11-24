@@ -63,3 +63,7 @@ if [ -n "$MINE" ]; then echo -e "$MINE"; fi
 ## Development
 
 Output is rendered by a jq program run through `gh --jq` (gh bundles gojq, so no `jq` at runtime). `test/run.sh` renders `test/fixtures/*.json` offline with `jq` and diffs against `test/expected.txt`; `test/run.sh --update` regenerates it.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
