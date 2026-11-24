@@ -1,0 +1,1 @@
+{"data":{"authored":{"nodes":[{"reviewDecision":"APPROVED"},{"reviewDecision":null},{"reviewDecision":"REVIEW_REQUIRED"},{"reviewDecision":"CHANGES_REQUESTED"}]},"assigned":{"issueCount":1},"involves":{"issueCount":3},"reviewAll":{"issueCount":17},"reviewDirect":{"issueCount":2}}}

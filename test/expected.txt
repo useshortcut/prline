@@ -3,6 +3,9 @@ closed	PR #42 closed
 draft-conflict	PR #42 draft · review required · ⚠ conflicts · CI ✓ 4
 failing	PR #42 open · changes requested · CI ✗ 3 failing (build, ci/legacy-status-check-…, unit-tests)
 merged	PR #42 merged
+mine-busy	PRs ✎ 4 (✓1 ✗1 ●2) · 📌 1 · 👀 2 +15 team · 💬 3
+mine-direct-only	PRs ✎ 1 (✓1) · 👀 2 · 💬 1
+mine-quiet	PRs ✎ 0 · 👀 0 · 💬 0
 no-checks	PR #42 open
 open-green	PR #42 open · CI ✓ 4
 pending	PR #42 open · CI ● 2 running 3/5
