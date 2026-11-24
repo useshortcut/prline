@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# prline: one-line GitHub PR + CI summary for the current branch, for status lines.
+# prline: one-line GitHub PR status for status lines: the current branch's PR + CI, or with --mine, my open PRs across GitHub.
 #
 #   prline [dir]          print cached line for dir's repo/branch; refresh in background if stale
 #   prline --refresh [dir] fetch synchronously and print
